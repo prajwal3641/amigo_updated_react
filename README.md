@@ -78,18 +78,7 @@ To get started with the project locally, follow these steps:
 
 ---
 
-## Screenshots
-
-Include relevant screenshots or gifs of your app’s interface:
-
-1. **Homepage:**
-   ![Homepage](./screenshots/homepage.png)
-
-2. **Mock Interview Interface:**
-   ![Mock Interview](./screenshots/mock-interview.png)
-
-3. **Leaderboard:**
-   ![Leaderboard](./screenshots/leaderboard.png)
+ 
 
 ---
 
@@ -135,9 +124,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any inquiries or further information, feel free to reach out to me at:
 
-- Email: suhelalipakjade@gmail.com
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
+- Email: orajwalrode31@gmail.com
+- GitHub: [Your GitHub Profile](https://github.com/prajwal3641)
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/prajwal_rode)
 
 ---
 
